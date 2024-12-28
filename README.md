@@ -1,6 +1,6 @@
 # RobotMonsterChaseGame
 
-A game I created using pygame for the University of Helsinki's Advanced Python MOOC course.
+A game I created using pygame for the University of Helsinki's Advanced [Python MOOC course](https://programming-24.mooc.fi/).
 
 ![Gameplay](./gifs/Robot%20Monster%20Game%20Gif.gif)
 
@@ -51,3 +51,27 @@ In this game, you control a robot tasked with collecting coins and delivering th
 ```bash
 git clone https://github.com/your-username/monster-escape.git
 ```
+
+### **2. Navigate to the Project Directory**
+
+```bash
+cd monster-escape
+```
+
+### **3. Install the Dependencies**
+
+```bash
+pip install pygame
+```
+
+### **4. Run the Game**
+
+Run the Python file by pressing the play button or running the below command.
+
+```bash
+python game.py
+```
+
+## **Credits**
+
+This game was developed using [Pygame](https://www.pygame.org/), a Python library for creating 2D games.
